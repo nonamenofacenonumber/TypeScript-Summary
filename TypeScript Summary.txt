@@ -1,0 +1,18 @@
+npm i -g typescript
+
+
+
+npm init -y
+npm install typescript --save-dev
+tsc script.ts
+tsc --init
+tsc
+
+
+npm i -D webpack webpack-cli ts-loader (-D = dev dependency)
+
+
+
+
+
+
